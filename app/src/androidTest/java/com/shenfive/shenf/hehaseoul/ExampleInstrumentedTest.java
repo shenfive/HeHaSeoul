@@ -1,4 +1,4 @@
-package com.example.shenf.hehaseoul;
+package com.shenfive.shenf.hehaseoul;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
